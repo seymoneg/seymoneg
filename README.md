@@ -19,6 +19,4 @@
 | Shell | Marco Polo | Create a shell program that saves the current working directory and then cd's back to the saved directory | [Marco Polo](https://github.com/seymoneg/marco-polo) |
 | Kotlin | Criminal Intent | Create an Android app that tracks office crimes | [Criminal Intent](https://github.com/seymoneg/CriminalIntent) |
 
-> ## "There is only one way to **succeed in anything**, and that is to **give it everything**."
-
 
