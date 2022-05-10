@@ -2,7 +2,7 @@
 
 ### 💻 I'm an aspiring Machine Learning Engineer and current Computer Science Student expected to graduate in December 2022.
 
-### 🔭 I'm currently working on: [Google Cloud's Machine Learning Engineer Learning Path](https://www.cloudskillsboost.google/paths/17?qlcampaign=1m-learningpath-268%3A%3ALSDsSL79aGqv9XPsVjvOAg) and [Machine Learning Engineer Path](https://github.com/codebasics/roadmaps/blob/master/machine-learning-engineer-roadmap-2021/ml_engineer_roadmap_2021.md)
+### 🔭 I'm currently working on: [Machine Learning Engineer Path](https://github.com/seymoneg/MLE-Roadmap)
 
 ### Here are some projects I'm very proud of 😺:
 
