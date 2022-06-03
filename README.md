@@ -1,8 +1,8 @@
 # Hello! 👋
 
-### 💻 I'm an aspiring Machine Learning Engineer and current Computer Science Student expected to graduate in December 2022.
+### 💻 I'm a current Computer Science Student expected to graduate in December 2022.
 
-### 🔭 I'm currently working on: [Machine Learning Engineer Path](https://github.com/seymoneg/MLE-Roadmap)
+### 🔭 Skills: Python, JavaScript, Java, SQL, Linux/Unix
 
 ### Here are some projects I'm very proud of 😺:
 
