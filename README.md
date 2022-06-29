@@ -4,7 +4,7 @@
 
 ### 🔭 Skills: Python, JavaScript, Java, C, SQL, Linux/Unix
 
-### Here are some projects I'm very proud of 😺:
+### Here are some projects I'm very proud of:
 
 | Language | Project | Description | Link |
 | :------: | :-----: | :---------: | :---: |
