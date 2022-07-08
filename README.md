@@ -2,7 +2,9 @@
 
 ### 💻 I'm a current Computer Science Student expected to graduate in December 2022.
 
-### 🔭 Skills: Python, JavaScript, Java, C, SQL, Linux/Unix
+### 🔭 Skills: Python, JavaScript, Java, C, SQL, Linux/Unix, Git
+
+### :thinking: Currently working on: [Productivity Hub](https://github.com/seymoneg/productivity-hub)
 
 ### Here are some projects I'm very proud of:
 
