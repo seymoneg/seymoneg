@@ -4,6 +4,7 @@
 
 ### I graduated from East Carolina University with a Bachelors of Science in Computer Science (Dec '22) and from Wake Technical Community College with an Associates of Science in Data Science and Programming Support (Dec '18). I have experience with:
 - Python
+- HTML/CSS/JavaScript
 - Java
 - C/C#
 - SQL
