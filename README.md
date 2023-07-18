@@ -1,6 +1,6 @@
 ## Hi there 👋😄
 
-### I'm a MERN Developer that is currently looking for Full Stack Developer Opportunities. I'm currently working on sharpening my React JS skills.
+### I'm a MERN Developer that is currently looking for Full Stack Developer Opportunities. I'm currently working on a [Full Stack Web Developer Certification from IBM](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer?skipBrowseRedirect=true).
 
 ### I graduated from East Carolina University with a Bachelors of Science in Computer Science (Dec '22) and from Wake Technical Community College with an Associates of Science in Data Science and Programming Support (Dec '18). I have experience with:
 - Python
