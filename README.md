@@ -11,3 +11,4 @@
 
 ### Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/seymoneg/)!
 
+#### * As of right now, most of my repositories are work that I've completed in the courses I've taken. *
