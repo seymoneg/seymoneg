@@ -1,6 +1,6 @@
 ## Hi there 👋😄
 
-### I'm a Full Stack Web Developer at IBM and a Professionally Certified Full Stack Software Developer. Currently, I'm working on mastering React.
+### I'm a Full Stack Web Developer at IBM and a Professionally Certified Full Stack Software Developer. Currently, I'm working on [mastering React](https://github.com/seymoneg/react-practice-projects).
 
 ### I graduated from East Carolina University with a Bachelor of Science in Computer Science (Dec '22) and from Wake Technical Community College with an Associate of Science in Data Science and Programming Support (Dec '18). I have experience with:
 - Python
